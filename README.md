@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">hello!! i'm rahh-uk!</h1>
 
-<!--
-**rahh-uk/rahh-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3679AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/discordbot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</p>
 
-Here are some ideas to get you started:
+## basic info
+- makes discord bots
+- uses python (discord.py) for projects
+- i love periwinkle (#9CB4DD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- none yet </3
